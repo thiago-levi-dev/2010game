@@ -1,2 +1,2 @@
 # 2010game
-sinais-basico
+esse é um jogo de exemplo de uso básico de sinais
